@@ -21,9 +21,7 @@ public class Missing_Number {
       int missing_num =  n*(n+1)/2 - sum;
       return missing_num;
     }
-    
-    
-    
+     
     public static void main(String[] args){
         int [] arr = {9,6,4,2,3,5,7,0,1};
         int x = missingNumber(arr);
