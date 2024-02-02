@@ -16,7 +16,6 @@ import static java.lang.Math.pow;
  * Input: head = [1,0,1]
  * Output: 5
  * Explanation: (101) in base 2 = (5) in base 10
- *
  * @author betus
  */
 public class Convert_Binary_Number_in_Linked_List_to_Integer {
