@@ -26,7 +26,8 @@ package easy;
 Approach:
 In the first part of the method, characters are added to a StringBuilder as requested, iterating through both input strings. 
 For any remaining characters after this initial iteration, the code enters the if conditions to identify the longer string. 
-The characters of the longer string are then added to the end of the StringBuilder. To ensure compatibility with the expected return type of String, 
+The characters of the longer string are then added to the end of the StringBuilder. To ensure compatibility with the expected return type of 
+String, 
 the StringBuilder is converted to a String before being returned.
 
 Complexity:
