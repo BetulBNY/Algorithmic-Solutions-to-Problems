@@ -1,9 +1,6 @@
 package easy;
-
 // Convert Binary Number in a Linked List to Integer
-
 import static java.lang.Math.pow;
-
 /**
  * Given head which is a reference node to a singly-linked list. The value of each node in the linked list is either 0 or 1. 
  * The linked list holds the binary representation of a number. Return the decimal value of the number in the linked list.
@@ -20,8 +17,7 @@ public class Convert_Binary_Number_in_Linked_List_to_Integer {
     static class ListNode {
         int val;
         ListNode next;
-    }
-    
+    }    
     public int getDecimalValue(ListNode head) {
         int arrsize = 0;
         ListNode current = head;
