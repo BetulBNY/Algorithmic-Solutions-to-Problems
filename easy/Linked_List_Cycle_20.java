@@ -67,10 +67,6 @@ public class Linked_List_Cycle_20 {
 
         System.out.println(hasCycle); // Output is false
         */
-        
-        
-        
-        
-        
+                
     }
 }
