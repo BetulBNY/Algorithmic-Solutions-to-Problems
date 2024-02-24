@@ -20,8 +20,6 @@ import java.util.HashMap;
  * 
  * @author betus
  */
-
-
 class Solution {
     public static int firstUniqChar(String s) {
        int[] freq = new int[26];
