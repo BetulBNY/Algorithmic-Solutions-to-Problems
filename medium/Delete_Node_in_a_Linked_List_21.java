@@ -62,8 +62,6 @@ public class Delete_Node_in_a_Linked_List_21 {
         while (current != null) {
             System.out.print(current.val + " ");
             current = current.next;
-        }
-        
-    }
-    
+        }        
+    }    
 }
