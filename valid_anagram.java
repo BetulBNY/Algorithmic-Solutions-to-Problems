@@ -47,8 +47,6 @@ public static boolean isAnagram(String s, String t) {
         return (s.length() == counter);
     }
     
-    
-    
     public static void main(String[] args){
         valid_anagram instance = new valid_anagram(); // create sample from valid_anagram class
         String a = "aacc";
