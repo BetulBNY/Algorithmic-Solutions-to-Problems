@@ -22,19 +22,14 @@ public class number_of_Zero_Filled_Subarrays_2348 {
         for (i=0; i< arr.length ; i++){
             if(arr[i]==0){
                 counter++;
-
-            }
-               
+            }               
             else if(arr[i]!=0){
-                subarray+=(counter*(counter+1)/2);
-       
+                subarray+=(counter*(counter+1)/2);       
                 counter=0;           
             }
           }
            if(arr[arr.length-1]==0){
-                subarray+=(counter*(counter+1)/2);
-                             
-                
+                subarray+=(counter*(counter+1)/2);                                         
             }           
-         
-}}
+    }
+}
