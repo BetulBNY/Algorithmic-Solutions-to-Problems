@@ -1,12 +1,7 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
 package easy;
 
 import java.util.HashSet;
 import java.util.Set;
-
 /**
  * 1207. Unique Number of Occurrences
  *
@@ -51,7 +46,7 @@ public class Unique_Number_of_Occurrences_25 {
         }
         System.out.println("boyle bir eşitlik yok");
     }
-    
+
     
     class Solution {
     public boolean uniqueOccurrences(int[] arr) {
@@ -74,14 +69,5 @@ public class Unique_Number_of_Occurrences_25 {
 
     }
 }
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
+      
 }
