@@ -1,7 +1,3 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
 package easy;
 
 import java.util.HashMap;
@@ -50,14 +46,9 @@ public class Isomorphic_Strings {
             
       } return true;}
     
- 
-    public static void main(String[] args) {
-        
-       
+    public static void main(String[] args) {       
         String s1 = "egg";
-        String s2 = "add";
-        
-        System.out.println(isIsomorphic(s1, s2));  
-        
+        String s2 = "add";      
+        System.out.println(isIsomorphic(s1, s2));          
     }
 }
