@@ -1,7 +1,6 @@
 # Q1. Build an Array With Stack Operations
 
 # You are given an integer array target and an integer n.
-#
 # You have an empty stack with the two following operations:
 #
 # "Push": pushes an integer to the top of the stack.
